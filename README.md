@@ -28,5 +28,9 @@
 ## What case does the number 18 fall into after the array is sorted? :
 
       Worst Case
+      
+## [7,3,5,8,2,9,4,15,6] Write the first 4 steps of the array according to the Insertion Sort :
+
+      
   
   
