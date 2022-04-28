@@ -32,5 +32,21 @@
 ## [7,3,5,8,2,9,4,15,6] Write the first 4 steps of the array according to the Insertion Sort :
 
       [7,3,5,8,2,9,4,15,6] ; [2,3,5,8,7,9,4,15,6] ; [2,3,4,8,7,9,5,15,6] ; [2,3,4,5,7,9,8,15,6] ; [2,3,4,5,6,9,8,15,7]
+      
+
+# LICENSE
+
+* This software is licensed By Tuncay Demir under the MIT license.
+
+<br />
+
+>[Patika.dev](https://app.patika.dev/fogomurphy)
+
+<br/>
+
+| Name |  Email |
+| ---- |  ----- |
+| Tuncay | tuncaydemir682@gmail.com |
+
   
   
